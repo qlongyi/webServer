@@ -1,5 +1,3 @@
-![vim快捷键](C:\Users\qiu\Pictures\Camera Roll\vim快捷键.png)
-
 演示
 ----------
 
