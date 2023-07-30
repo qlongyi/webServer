@@ -1,6 +1,5 @@
-![vim快捷键](.\vim快捷键.png)
-=======
-<div align=center><img src="./vim快捷键.png" height="429"/> </div>
+<div align=center><img src="./login.gif" height="429"/> </div>
+
 ----------
 
 
