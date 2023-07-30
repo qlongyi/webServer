@@ -1,9 +1,9 @@
 ![vim快捷键](.\vim快捷键.png)
-
-演示
+=======
+<div align=center><img src="./vim快捷键.png" height="429"/> </div>
 ----------
 
-<div align=center><img src="https://github.com/qinguoyi/TinyWebServer/blob/master/root/login.gif" height="429"/> </div>
+
 
 
 
